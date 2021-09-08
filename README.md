@@ -11,4 +11,4 @@ My Hometown is **Guntur** and its state is **Andhrapradesh**
     * Shades
 * Rent a Bike to enjoy maximum
 
-**[AboutMe]**(https://github.com/skjaveed/assignment2-Mohammed/blob/main/AboutMe.md)
+**[AboutMe](https://github.com/skjaveed/assignment2-Mohammed/blob/main/AboutMe.md)**
