@@ -7,8 +7,9 @@ My Hometown is **Guntur** and its state is **Andhrapradesh**
 # ordered list
 
 1. Take ride from maryvelly to Kansas airport
-    1. Way
-    2. Maryvill
-    3. St Joes
-2. Los Angels 
+    1. Get Plane to newyork
+    2. Get out from airport 
+    3. Take a cab 
+    4. To new york city 
+2. New york
 
