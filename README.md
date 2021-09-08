@@ -12,3 +12,10 @@ My Hometown is **Guntur** and its state is **Andhrapradesh**
 * Rent a Bike to enjoy maximum
 
 **[AboutMe](https://github.com/skjaveed/assignment2-Mohammed/blob/main/AboutMe.md)**
+# Food and Drinks
+|FoodandDrinks |location            | Amount shoulb be payed|
+|--------------|--------------------|-----------------------|
+|Mutton Biryani |Guntur (home town) | Vinay                 |
+|rice           |Hotel Bilal(Guntur)| Venkatesh             |
+|Faluda         |Hyderabad          | Sai                   |
+|coke           |any store          | me(Javeed)            |
