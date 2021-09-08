@@ -19,3 +19,8 @@ My Hometown is **Guntur** and its state is **Andhrapradesh**
 |rice           |Hotel Bilal(Guntur)| Venkatesh             |
 |Faluda         |Hyderabad          | Sai                   |
 |coke           |any store          | me(Javeed)            |
+
+# Pithy Quates
+> 'You can't cross the sea merely by standing and staring at the water.’*-Sir Ravindranadh Tagore* <br>
+
+> When something is important enough, you do it even if the odds are not in your favor.*-Elon Musk*
