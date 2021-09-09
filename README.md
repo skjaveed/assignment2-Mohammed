@@ -14,12 +14,12 @@ My Hometown is **Guntur** and its state is **Andhrapradesh**
 
 **[AboutMe](https://github.com/skjaveed/assignment2-Mohammed/blob/main/AboutMe.md)**
 # Food and Drinks
-|FoodandDrinks |location            | Amount shoulb be payed|
+|FoodandDrinks |location            | money to pay|
 |--------------|--------------------|-----------------------|
-|Mutton Biryani |Guntur (home town) | Vinay                 |
-|rice           |Hotel Bilal(Guntur)| Venkatesh             |
-|Faluda         |Hyderabad          | Sai                   |
-|coke           |any store          | me(Javeed)            |
+|Mutton Biryani |Guntur (home town) | 250                |
+|rice           |Hotel Bilal(Guntur)| 100             |
+|Faluda         |Hyderabad          | 50                   |
+|coke           |any store          | 50            |
 
 ***Quatations***
 # Pithy Qoutes
